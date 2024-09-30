@@ -1,4 +1,4 @@
-Projeto Tech Mahindra - Fórmula E Mercadinho
+Projeto Tech Mahindra - Fórmula E
 
 Este projeto é um programa interativo que fornece informações sobre a Tech Mahindra, a Fórmula E e seus pilotos, além de oferecer um mercadinho virtual onde os usuários podem comprar produtos relacionados. O programa inclui um sistema de gerenciamento de estoque, carrinho de compras e coleta de informações de entrega.
 
